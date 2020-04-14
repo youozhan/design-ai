@@ -28,13 +28,19 @@ Google AI experiments
 
 Google AI experiments
 
-## references
+[Perspective API](https://www.perspectiveapi.com/#/home)
+
+[jigsaw](https://jigsaw.google.com/)
+
+## xai
 
 [Google's new 'Explainable AI' service](https://towardsdatascience.com/googles-new-explainable-ai-xai-service-83a7bc823773)
 
 AI being used in - healthcare, I.T. services, finance, manufacturing, autonomous driving, video game playing, scientific discovery, and the criminal justice system. Reasons to offer explainability - improve human readability, determine the justifiability of the decision made by the machine, help in deciding accountability, liability leading to good policy making, avoid discrimination, reduce societal bias. XAI to visualize - discriminative features, activation of neural net layers, incorporating behavior models in the system. 
 
 https://www.darpa.mil/attachments/XAIProgramUpdate.pdf
+
+https://databricks.com/glossary
 
 
 
